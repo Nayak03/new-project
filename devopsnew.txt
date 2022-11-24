@@ -2,3 +2,4 @@ this is my new project
 new project second line
 git is lightweight
 git is widely used tool
+git is nice tool
